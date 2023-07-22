@@ -1,2 +1,4 @@
 NAMA	:AISYAH FATMAWATI
 ASAL	:kp.cingagoler des.panyaungan Kec.Cihara Kab.Lebak
+JURUSAN	:Teknik Informatika
+JENKEL	:Perempuan
